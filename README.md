@@ -18,7 +18,7 @@ Repository Highlights:
 
 
 How to Use:
-Clone the Repository: git clone https://github.com/your-username/EDA-Feature-Engineering.git
+Clone the Repository: git clone https://github.com/KrishnaHariharan/EDA-Feature-Engineering.git
 Explore Projects: Navigate to specific project folders and open the Jupyter notebooks to delve into the details.
 Learn and Contribute: Feel free to use, learn from, or contribute to any project. Your insights and contributions are valuable to the community!
 Let's Collaborate:
